@@ -7,8 +7,8 @@ description: |
   Projet en equipe pour la fin de formation.
 tags:
   - Design
-  - Dev
-  - User Testing
+  - Frontend
+  - Backend
 ---
 
 Projet en cours de developpement.
