@@ -26,7 +26,7 @@ import Hero from "../components/Hero.astro";
       <section>
         <h2 class="section-title">Background</h2>
         <div class="content">
-          <p>
+          <p class="paragraph">
             Mon parcours professionnel, débute en tant que Préparateur de
             commande avant de gravir les échelons jusqu'au poste de Chef
             d'équipe en logistique, ce qui témoigne de ma détermination à
@@ -35,7 +35,7 @@ import Hero from "../components/Hero.astro";
             passionnante qui m'a conduit à plonger dans l'univers dynamique du
             développement web.
           </p>
-          <p>
+          <p class="paragraph">
             Ma formation à la Wild Code School a été une expérience
             transformative, m'offrant quotidiennement la possibilité d'explorer
             de nouvelles technologies et frameworks. Cette immersion constante
@@ -46,7 +46,7 @@ import Hero from "../components/Hero.astro";
             d'affiner mes compétences, mais aussi de repousser mes propres
             limites.
           </p>
-          <p>
+          <p class="paragraph">
             En tant que junior dans le domaine du développement web, mon
             engagement indéfectible envers cette passion me guide dans la quête
             incessante d'apporter des solutions novatrices et efficaces à
@@ -121,7 +121,9 @@ import Hero from "../components/Hero.astro";
   .content :global(a:focus) {
     text-decoration-color: currentColor;
   }
-
+  .paragraph {
+    margin-bottom: 1rem;
+  }
   @media (min-width: 50em) {
     .about {
       display: grid;

@@ -8,28 +8,33 @@ const textLinks: { label: string; href: string }[] = [
   { label: "Accueil", href: "/" },
   { label: "Projet", href: "/work/" },
   { label: "A Propos", href: "/about/" },
+  { label: "Contact", href: "mailto:dumas.jl@hotmail.fr" },
 ];
 
 /** Icon links to social media — edit these with links to your profiles! */
 const iconLinks: {
   label: string;
   href: string;
+  target?: string;
   icon: keyof typeof iconPaths;
 }[] = [
   {
     label: "LinkedIn",
     href: "https://www.linkedin.com/in/jean-louis-dumas-0a119b260",
     icon: "linkedin-logo",
+    target: "_blank",
   },
   {
     label: "GitHub",
     href: "https://github.com/Frequencerz911",
     icon: "github-logo",
+    target: "_blank",
   },
   {
     label: "CV",
-    href: "https://drive.google.com/file/d/1pRGF-rsCbRDTiRvWlZ7kei8BEnubS0o3/view?usp=drive_link",
+    href: "https://drive.google.com/file/d/1k6bC4dbVDydaZaCVulqtbrLpbO2t8uLu/view?usp=drive_link",
     icon: "paper-plane-tilt",
+    target: "_blank",
   },
 ];
 ---
