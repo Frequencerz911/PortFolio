@@ -11,6 +11,6 @@ tags:
   - Scss
 ---
 
-Le lien pour accéder au site : <a href="https://geodrinkers.vercel.app/">Geodrinkers</a>
+Le lien pour accéder au site : <a href="https://geodrinkers.vercel.app/" target="_blank">Geodrinkers</a>
 
-Le lien pour accéder au code du site : <a href="https://github.com/Frequencerz911/JS-RemoteFR-jurascripts-P2-Geodrinkers">GitHub</a>
+Le lien pour accéder au code du site : <a href="https://github.com/Frequencerz911/JS-RemoteFR-jurascripts-P2-Geodrinkers" target="_blank">GitHub</a>

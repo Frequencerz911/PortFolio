@@ -14,4 +14,4 @@ tags:
 Ce projet Fût réalisé en équipe lors du premier hackathon organisé par la Wild Code School.
 Nous devions réaliser un site lors d'un sprint d'une durée de 36h.
 
-Le lien pour accéder au code du site : <a href="https://github.com/Frequencerz911/Hackathon-1">GitHub</a>
+Le lien pour accéder au code du site : <a href="https://github.com/Frequencerz911/Hackathon-1" target="_blank">GitHub</a>

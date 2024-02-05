@@ -15,4 +15,4 @@ tags:
 Ce projet Fût réalisé en équipe lors du second hackathon organisé par la Wild Code School avec comme partenaire l'entreprise L'Oreal Paris.
 Nous devions réaliser un site lors d'un sprint d'une durée de 50h.
 
-Le lien pour accéder au code du site : <a href="https://github.com/Frequencerz911/Loreal_Avatar">GitHub</a>
+Le lien pour accéder au code du site : <a href="https://github.com/Frequencerz911/Loreal_Avatar" target="_blank">GitHub</a>
